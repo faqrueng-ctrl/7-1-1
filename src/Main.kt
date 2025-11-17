@@ -21,7 +21,7 @@ fun main() {
             "0" -> break
             else -> {
                 println("ERROR")
-                continue // Повторяем запрос, если ошибка
+                continue 
             }
         }
 
